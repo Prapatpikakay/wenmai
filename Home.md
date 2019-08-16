@@ -16,4 +16,10 @@
 
 <p><a href="https://raw.githubusercontent.com/craftsapp/piepie_now/master/apk/PiePie_Now.apk">Download PiePie Now</a></p>
 
+<p> . </p>
+<p> . </p>
+<p> . </p>
+<p> . </p>
+
+
   </body>
